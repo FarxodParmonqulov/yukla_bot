@@ -1,1 +1,1 @@
-﻿echo worker: python bot.py > Procfile
+﻿echo worker: python yukla_bot.py > Procfile
